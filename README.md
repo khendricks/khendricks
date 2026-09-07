@@ -1,16 +1,84 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**khendricks/khendricks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B2D,50:33523F,100:9BBA84&height=100&section=header" width="100%" />
 
-Here are some ideas to get you started:
+<a href="#pathbits"><img src="https://img.shields.io/badge/Pathbits-33523F?style=for-the-badge&labelColor=15161A" /></a>
+<a href="#tools"><img src="https://img.shields.io/badge/Tools-33523F?style=for-the-badge&labelColor=15161A" /></a>
+<a href="#games"><img src="https://img.shields.io/badge/Games-33523F?style=for-the-badge&labelColor=15161A" /></a>
+<a href="#public"><img src="https://img.shields.io/badge/Public-33523F?style=for-the-badge&labelColor=15161A" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Pathbits
+
+<table width="100%">
+<tr>
+<th width="44%" align="center"><div align="center">&nbsp;</div></th>
+<th width="28%" align="center"><div align="center">Live</div></th>
+<th width="28%" align="center"><div align="center">Source</div></th>
+</tr>
+<tr>
+<td width="44%" align="center"><div align="center"><b>Marketing site</b></div></td>
+<td width="28%" align="center"><div align="center"><a href="https://www.pathbits.com/"><img src="https://img.shields.io/badge/pathbits.com-33523F?style=for-the-badge&labelColor=15161A&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjRGNkYyIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkiLz48cGF0aCBkPSJNMyAxMmgxOCIvPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjEyIiByeD0iNCIgcnk9IjkiLz48L3N2Zz4=" /></a></div></td>
+<td width="28%" align="center"><div align="center"><a href="https://github.com/khendricks/pathbits-marketing-site"><img src="https://img.shields.io/badge/private_repo-52334F?style=for-the-badge&labelColor=15161A&logo=github&logoColor=F4F6F2" /></a></div></td>
+</tr>
+<tr>
+<td width="44%" align="center"><div align="center"><b>Rails app</b></div></td>
+<td width="28%" align="center"><div align="center"><a href="https://app.pathbits.com/"><img src="https://img.shields.io/badge/app.pathbits.com-33523F?style=for-the-badge&labelColor=15161A&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjRGNkYyIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkiLz48cGF0aCBkPSJNMyAxMmgxOCIvPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjEyIiByeD0iNCIgcnk9IjkiLz48L3N2Zz4=" /></a></div></td>
+<td width="28%" align="center"><div align="center"><a href="https://github.com/khendricks/pathbits"><img src="https://img.shields.io/badge/private_repo-52334F?style=for-the-badge&labelColor=15161A&logo=github&logoColor=F4F6F2" /></a></div></td>
+</tr>
+</table>
+
+## Tools
+
+<table width="100%">
+<tr>
+<th width="44%" align="center"><div align="center">&nbsp;</div></th>
+<th width="28%" align="center"><div align="center">Live</div></th>
+<th width="28%" align="center"><div align="center">Source</div></th>
+</tr>
+<tr>
+<td width="44%" align="center"><div align="center"><b>resumes</b><br><sub>JSON in, tailored resume &amp; cover letter PDFs out</sub></div></td>
+<td width="28%" align="center"><div align="center"><sub>&mdash;</sub></div></td>
+<td width="28%" align="center"><div align="center"><a href="https://github.com/khendricks/resumes"><img src="https://img.shields.io/badge/private_repo-52334F?style=for-the-badge&labelColor=15161A&logo=github&logoColor=F4F6F2" /></a></div></td>
+</tr>
+</table>
+
+## Games
+
+<table width="100%">
+<tr>
+<th width="44%" align="center"><div align="center">&nbsp;</div></th>
+<th width="28%" align="center"><div align="center">Live</div></th>
+<th width="28%" align="center"><div align="center">Source</div></th>
+</tr>
+<tr>
+<td width="44%" align="center"><div align="center"><b>Godot projects</b><br><sub>in progress</sub></div></td>
+<td width="28%" align="center"><div align="center"><sub>&mdash;</sub></div></td>
+<td width="28%" align="center"><div align="center"><img src="https://img.shields.io/badge/coming_soon-2C2F35?style=for-the-badge&labelColor=15161A&logo=github&logoColor=8A8E88" /></div></td>
+</tr>
+</table>
+
+## Public
+
+<table width="100%">
+<tr>
+<th width="44%" align="center"><div align="center">&nbsp;</div></th>
+<th width="28%" align="center"><div align="center">Live</div></th>
+<th width="28%" align="center"><div align="center">Source</div></th>
+</tr>
+<tr>
+<td width="44%" align="center"><div align="center"><b>tensec</b><br><sub>mini game built in a 120-minute jam</sub></div></td>
+<td width="28%" align="center"><div align="center"><sub>&mdash;</sub></div></td>
+<td width="28%" align="center"><div align="center"><a href="https://github.com/khendricks/tensec"><img src="https://img.shields.io/badge/repo-52334F?style=for-the-badge&labelColor=15161A&logo=github&logoColor=F4F6F2" /></a></div></td>
+</tr>
+<tr>
+<td width="44%" align="center"><div align="center"><b>kubernetes-practice</b><br><sub>Express counter, Dockerized, 3 replicas on k8s</sub></div></td>
+<td width="28%" align="center"><div align="center"><sub>&mdash;</sub></div></td>
+<td width="28%" align="center"><div align="center"><a href="https://github.com/khendricks/kubernetes-practice"><img src="https://img.shields.io/badge/repo-52334F?style=for-the-badge&labelColor=15161A&logo=github&logoColor=F4F6F2" /></a></div></td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9BBA84,50:33523F,100:243B2D&height=100&section=footer" width="100%" />
+</div>
