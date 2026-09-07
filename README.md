@@ -13,9 +13,9 @@
 
 <table width="100%">
 <tr>
-<th width="44%" align="center"><div align="center">&nbsp;</div></th>
-<th width="28%" align="center"><div align="center">Live</div></th>
-<th width="28%" align="center"><div align="center">Source</div></th>
+<th width="44%" align="center"><div align="center">&nbsp;<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="340" height="1" /></div></th>
+<th width="28%" align="center"><div align="center">Live<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
+<th width="28%" align="center"><div align="center">Source<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
 </tr>
 <tr>
 <td width="44%" align="center"><div align="center"><b>Marketing site</b></div></td>
@@ -33,9 +33,9 @@
 
 <table width="100%">
 <tr>
-<th width="44%" align="center"><div align="center">&nbsp;</div></th>
-<th width="28%" align="center"><div align="center">Live</div></th>
-<th width="28%" align="center"><div align="center">Source</div></th>
+<th width="44%" align="center"><div align="center">&nbsp;<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="340" height="1" /></div></th>
+<th width="28%" align="center"><div align="center">Live<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
+<th width="28%" align="center"><div align="center">Source<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
 </tr>
 <tr>
 <td width="44%" align="center"><div align="center"><b>resumes</b><br><sub>JSON in, tailored resume &amp; cover letter PDFs out</sub></div></td>
@@ -48,9 +48,9 @@
 
 <table width="100%">
 <tr>
-<th width="44%" align="center"><div align="center">&nbsp;</div></th>
-<th width="28%" align="center"><div align="center">Live</div></th>
-<th width="28%" align="center"><div align="center">Source</div></th>
+<th width="44%" align="center"><div align="center">&nbsp;<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="340" height="1" /></div></th>
+<th width="28%" align="center"><div align="center">Live<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
+<th width="28%" align="center"><div align="center">Source<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
 </tr>
 <tr>
 <td width="44%" align="center"><div align="center"><b>Godot projects</b><br><sub>in progress</sub></div></td>
@@ -63,9 +63,9 @@
 
 <table width="100%">
 <tr>
-<th width="44%" align="center"><div align="center">&nbsp;</div></th>
-<th width="28%" align="center"><div align="center">Live</div></th>
-<th width="28%" align="center"><div align="center">Source</div></th>
+<th width="44%" align="center"><div align="center">&nbsp;<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="340" height="1" /></div></th>
+<th width="28%" align="center"><div align="center">Live<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
+<th width="28%" align="center"><div align="center">Source<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
 </tr>
 <tr>
 <td width="44%" align="center"><div align="center"><b>tensec</b><br><sub>mini game built in a 120-minute jam</sub></div></td>
