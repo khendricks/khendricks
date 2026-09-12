@@ -14,7 +14,7 @@
 <table width="100%">
 <tr>
 <th width="44%" align="center" valign="middle"><div align="center">&nbsp;<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="340" height="1" /></div></th>
-<th width="28%" align="center" valign="middle"><div align="center">Live<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
+<th width="28%" align="center" valign="middle"><div align="center">Status<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
 <th width="28%" align="center" valign="middle"><div align="center">Source<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
 </tr>
 <tr>
@@ -34,7 +34,7 @@
 <table width="100%">
 <tr>
 <th width="44%" align="center" valign="middle"><div align="center">&nbsp;<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="340" height="1" /></div></th>
-<th width="28%" align="center" valign="middle"><div align="center">Live<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
+<th width="28%" align="center" valign="middle"><div align="center">Status<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
 <th width="28%" align="center" valign="middle"><div align="center">Source<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
 </tr>
 <tr>
@@ -49,7 +49,7 @@
 <table width="100%">
 <tr>
 <th width="44%" align="center" valign="middle"><div align="center">&nbsp;<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="340" height="1" /></div></th>
-<th width="28%" align="center" valign="middle"><div align="center">Live<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
+<th width="28%" align="center" valign="middle"><div align="center">Status<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
 <th width="28%" align="center" valign="middle"><div align="center">Source<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
 </tr>
 <tr>
@@ -64,22 +64,22 @@
 <table width="100%">
 <tr>
 <th width="44%" align="center" valign="middle"><div align="center">&nbsp;<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="340" height="1" /></div></th>
-<th width="28%" align="center" valign="middle"><div align="center">Live<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
+<th width="28%" align="center" valign="middle"><div align="center">Status<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
 <th width="28%" align="center" valign="middle"><div align="center">Source<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
 </tr>
 <tr>
 <td width="44%" align="center" valign="middle"><div align="center"><b>kubernetes-practice</b><br><sub>Express counter, Dockerized, 3 replicas on k8s</sub></div></td>
-<td width="28%" align="center" valign="middle"><div align="center"><sub>&mdash;</sub></div></td>
+<td width="28%" align="center" valign="middle"><div align="center"><sub>archived</sub></div></td>
 <td width="28%" align="center" valign="middle"><div align="center"><a href="https://github.com/khendricks/kubernetes-practice"><img src="https://img.shields.io/badge/repo-52334F?style=for-the-badge&labelColor=15161A&logo=github&logoColor=F4F6F2" /></a></div></td>
 </tr>
 <tr>
 <td width="44%" align="center" valign="middle"><div align="center"><b>pubsub-practice</b><br><sub>Spring Boot publisher &amp; listener on a Pub/Sub emulator</sub></div></td>
-<td width="28%" align="center" valign="middle"><div align="center"><sub>&mdash;</sub></div></td>
+<td width="28%" align="center" valign="middle"><div align="center"><sub>archived</sub></div></td>
 <td width="28%" align="center" valign="middle"><div align="center"><a href="https://github.com/khendricks/pubsub-practice"><img src="https://img.shields.io/badge/repo-52334F?style=for-the-badge&labelColor=15161A&logo=github&logoColor=F4F6F2" /></a></div></td>
 </tr>
 <tr>
 <td width="44%" align="center" valign="middle"><div align="center"><b>websocket-practice</b><br><sub>FastAPI chatroom using native browser WebSockets</sub></div></td>
-<td width="28%" align="center" valign="middle"><div align="center"><sub>&mdash;</sub></div></td>
+<td width="28%" align="center" valign="middle"><div align="center"><sub>archived</sub></div></td>
 <td width="28%" align="center" valign="middle"><div align="center"><a href="https://github.com/khendricks/websocket-practice"><img src="https://img.shields.io/badge/repo-52334F?style=for-the-badge&labelColor=15161A&logo=github&logoColor=F4F6F2" /></a></div></td>
 </tr>
 </table>
