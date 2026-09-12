@@ -82,6 +82,11 @@
 <td width="28%" align="center" valign="middle"><div align="center"><sub>&mdash;</sub></div></td>
 <td width="28%" align="center" valign="middle"><div align="center"><a href="https://github.com/khendricks/pubsub-practice"><img src="https://img.shields.io/badge/repo-52334F?style=for-the-badge&labelColor=15161A&logo=github&logoColor=F4F6F2" /></a></div></td>
 </tr>
+<tr>
+<td width="44%" align="center" valign="middle"><div align="center"><b>websocket-practice</b><br><sub>FastAPI chatroom using native browser WebSockets</sub></div></td>
+<td width="28%" align="center" valign="middle"><div align="center"><sub>&mdash;</sub></div></td>
+<td width="28%" align="center" valign="middle"><div align="center"><a href="https://github.com/khendricks/websocket-practice"><img src="https://img.shields.io/badge/repo-52334F?style=for-the-badge&labelColor=15161A&logo=github&logoColor=F4F6F2" /></a></div></td>
+</tr>
 </table>
 
 <div align="center">
