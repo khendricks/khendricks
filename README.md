@@ -68,11 +68,6 @@
 <th width="28%" align="center" valign="middle"><div align="center">Source<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="230" height="1" /></div></th>
 </tr>
 <tr>
-<td width="44%" align="center" valign="middle"><div align="center"><b>tensec</b><br><sub>mini game built in a 120-minute jam</sub></div></td>
-<td width="28%" align="center" valign="middle"><div align="center"><sub>&mdash;</sub></div></td>
-<td width="28%" align="center" valign="middle"><div align="center"><a href="https://github.com/khendricks/tensec"><img src="https://img.shields.io/badge/repo-52334F?style=for-the-badge&labelColor=15161A&logo=github&logoColor=F4F6F2" /></a></div></td>
-</tr>
-<tr>
 <td width="44%" align="center" valign="middle"><div align="center"><b>kubernetes-practice</b><br><sub>Express counter, Dockerized, 3 replicas on k8s</sub></div></td>
 <td width="28%" align="center" valign="middle"><div align="center"><sub>&mdash;</sub></div></td>
 <td width="28%" align="center" valign="middle"><div align="center"><a href="https://github.com/khendricks/kubernetes-practice"><img src="https://img.shields.io/badge/repo-52334F?style=for-the-badge&labelColor=15161A&logo=github&logoColor=F4F6F2" /></a></div></td>
