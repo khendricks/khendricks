@@ -60,7 +60,7 @@
 <tr>
 <td width="44%" align="center" valign="middle"><div align="center"><b>Tossback Games</b><br><sub>turn-based mini-games to play head-to-head with friends</sub></div></td>
 <td width="28%" align="center" valign="middle"><div align="center"><sub>in progress</sub></div></td>
-<td width="28%" align="center" valign="middle"><div align="center"><a href="https://github.com/khendricks/tossback-games"><img src="https://img.shields.io/badge/private_repo-52334F?style=for-the-badge&labelColor=15161A&logo=github&logoColor=F4F6F2" /></a></div></td>
+<td width="28%" align="center" valign="middle"><div align="center"><a href="https://github.com/Lunar-Turtle-LLC/tossback-games"><img src="https://img.shields.io/badge/private_repo-52334F?style=for-the-badge&labelColor=15161A&logo=github&logoColor=F4F6F2" /></a></div></td>
 </tr>
 </table>
 
