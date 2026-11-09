@@ -27,6 +27,8 @@
 
 ## Pathbits
 
+Pathbits was a good project, but I saw no usage, so I archived it to stop paying for servers.
+
 <table width="100%">
 <tr>
 <th width="44%" align="center" valign="middle"><div align="center">&nbsp;<br><img src="https://raw.githubusercontent.com/khendricks/khendricks/main/assets/spacer.png" width="340" height="1" /></div></th>
