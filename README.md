@@ -27,7 +27,7 @@
 
 ## Pathbits
 
-Pathbits was a good project, but it got no usage, so I archived it to stop paying for servers.
+Pathbits was a good project, but I saw no usage, so I archived it to stop paying for servers.
 
 <table width="100%">
 <tr>
